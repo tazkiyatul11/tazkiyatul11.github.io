@@ -1,0 +1,17 @@
+body{
+	background: rgba(255, 213, 144, 0.2) ;
+	background-image: url("flower2.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	}
+.transbox { margin-bottom: 50 px; margin-left: 100px;margin-top: 70px;margin-right: 100px; }
+h1 {background-color: rgba(255, 99, 71, 0.2);background-position:center;color: black ;; font-family:sans-serif; font-size: 40px;text-align: center;}
+#menu{  margin-bottom: 50px; margin-left: 200px;margin-top: 50px;margin-right: 200px;margin-bottom: : 50px }
+#p1{ text-align: justify; text-indent: 30px; line-height: 20px; word-spacing: 2px; font-family: monospace; font-size: 15px; font-weight: lighter; 
+}
+#p2{text-align:center; text-indent: 30px; line-height: 20px; word-spacing: 2px; font-family: monospace; font-size: 15px; font-weight: lighter; 
+background-color: rgba(255, 213, 144, 0.2); }
+#p3{text-align: justify; text-indent: 30px; line-height: 20px; word-spacing: 2px; font-family: monospace; font-size: 15px; font-weight: lighter; 
+}
+#class{ margin-bottom: 50px; margin-left: 200px;margin-top: 50px;margin-right: 200px;margin-bottom: : 50px}
